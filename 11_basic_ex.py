@@ -1,7 +1,7 @@
-""" 
+"""
 Genera un número aleatorio entre 1 y 10.
 El usuario debe adivinarlo.
-Repite hasta que acierte 
+Repite hasta que acierte
 """
 import random
 

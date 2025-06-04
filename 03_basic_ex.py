@@ -1,11 +1,13 @@
-""" Ahora trabajaremos con números. Escribe un programa que:
+"""
+Escribe un programa que:
 Pida dos números enteros al usuario.
 Calcule y muestre:
-La suma
-La resta
-La multiplicación
-La división
-El resto (módulo) """
+- La suma
+- La resta
+- La multiplicación
+- La división
+- El resto (módulo) 
+"""
 
 num_uno = int(input("Ingrese un numero entero"))
 operacion = input("Que operacion desea realizar? indique (+ - * / %) ")

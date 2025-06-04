@@ -1,4 +1,4 @@
-""" 
+"""
 Genera un número aleatorio entre 1 y 10.
 El usuario debe adivinarlo.
 El usuario solo tendra 3 intentos para poder adivinar el numero

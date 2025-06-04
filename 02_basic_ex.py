@@ -1,11 +1,12 @@
-""" Escribe un programa que:
-Pida por consola los siguientes datos:
-Tu edad
-Tu estatura
-Tu nombre completo
-Si estás estudiando programación (sí o no)
+"""
+Escribe un programa que:
+- Pida por consola los siguientes datos:
+- Tu edad
+- Tu estatura
+- Tu nombre completo
+- Si estás estudiando programación (sí o no)
 Asigne esos datos a las variables respectivas.
-Muestra todas las variables juntas en una sola línea de texto 
+Muestra todas las variables juntas en una sola línea de texto
 """
 
 edad = int(input("Ingrese su edad"))

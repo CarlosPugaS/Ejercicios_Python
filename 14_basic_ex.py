@@ -1,8 +1,8 @@
-""" 
-Suma hasta que el usuario escriba 0 : 
+"""
+Suma hasta que el usuario escriba 0 :
 - Pide números al usuario uno por uno.
 - Cuando escriba 0, termina.
-- Muestra la lista de números y su suma total. 
+- Muestra la lista de números y su suma total.
 """
 
 suma = 0

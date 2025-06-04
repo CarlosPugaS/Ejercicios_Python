@@ -1,8 +1,8 @@
-""" 
+"""
 Ejercicio 13: Promedio de notas
 Pide al usuario que ingrese 5 notas (0 a 10).
 Guárdalas en una lista.
-Muestra el promedio. 
+Muestra el promedio.
 """
 
 print("Ingrese 5 notas de 0 a 10")
