@@ -15,4 +15,5 @@ for palabra in frase:
     palabra_invertida = palabra[::-1]
     frase_invertida.append(palabra_invertida)
 
-print(f'entrada : {frase} \nsalida : {frase_invertida}')
+print(f'entrada : {" ".join(frase)}\n')
+print(f'salida : {" ".join(frase_invertida)}')

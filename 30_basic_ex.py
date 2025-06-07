@@ -19,5 +19,4 @@ for word in phrase:
     else:
         group[large].append(word)
 for large, word in group.items():
-    print(group)
     print(f'Palabras de {large} letras: {word} \n')
