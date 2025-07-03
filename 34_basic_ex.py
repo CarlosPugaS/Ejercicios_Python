@@ -7,7 +7,6 @@ phrase = input("Please insert a phrase : \n")
 phrase = phrase.split()
 
 count = {}
-repeat = {}
 
 for word in phrase:
     word = word.lower()
